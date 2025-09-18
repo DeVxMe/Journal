@@ -1,6 +1,21 @@
+
+
 # On-Chain Journal ✍️
 
 This is a Solana program built with the **Anchor framework**. Think of it as a personal, tamper-proof journal that lives on the blockchain. You can write, edit, and even delete your entries, and everything is verifiable on the Solana network.
+
+## Code Live at
+https://myjournal-tawny.vercel.app/
+
+## Program ID
+<img width="1364" height="768" alt="pid" src="https://github.com/user-attachments/assets/d8238f3d-537b-4624-8d52-4e4f04acb8ae" />
+
+## Demo Video 
+
+Posted in the X
+
+## Frontend
+ In this Repo https://github.com/DeVxMe/JournalFE
 
 ## ✨ Features
 
